@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "App30": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
